@@ -1,3 +1,4 @@
+```
 [root@c02n2t ~]# cat /etc/yum.repos.d/local.repo 
 [centos]
 name=centos
@@ -12,3 +13,4 @@ enabled=1
 gpgcheck=0
 
 [root@c02n2t ~]# 
+```

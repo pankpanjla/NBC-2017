@@ -1,3 +1,4 @@
+```
 #!/bin/bash
 # Note: This script is relay on password less ssh access for master_node
 master_node_ip=10.10.10.126
@@ -21,3 +22,4 @@ else
 fi
 for file in "$passwd_file" "$shadow_file" "$group_file" "$gshadow_file"
 do
+```
